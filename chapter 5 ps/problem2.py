@@ -1,0 +1,21 @@
+e = set()
+number1 = int(input("Enter a number1: "))
+number2 = int(input("Enter a number2: "))
+number3 = int(input("Enter a number3: "))
+number4 = int(input("Enter a number4: "))
+number5 = int(input("Enter a number5: "))
+number6 = int(input("Enter a number6: "))
+number7 = int(input("Enter a number7: "))
+number8 = int(input("Enter a number8: "))
+
+e.add(number1)
+e.add(number2)
+e.add(number3)
+e.add(number4)
+e.add(number5)
+e.add(number6)
+e.add(number7)
+e.add(number8)
+
+print(e)
+
